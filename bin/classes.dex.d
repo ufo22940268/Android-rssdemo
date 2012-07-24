@@ -1,0 +1,25 @@
+/home/ccheng/workspace_helio/rssdemo/bin/classes.dex : \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$id.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/MainActivity$GetDataTask.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$attr.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$drawable.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$layout.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/MainActivity$1.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/BuildConfig.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$string.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/MainActivity.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$dimen.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$anim.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/hongbosb/rssdemo/R$styleable.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$id.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$attr.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$drawable.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$layout.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$string.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$dimen.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$anim.class \
+/home/ccheng/workspace_helio/rssdemo/bin/classes/com/handmark/pulltorefresh/library/R$styleable.class \
+/home/ccheng/workspace_helio/rssdemo/libs/bin/classes.jar \
+/home/ccheng/program/android-sdk-linux_x86/tools/support/annotations.jar \
